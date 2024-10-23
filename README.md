@@ -8,9 +8,9 @@ This repository contains courses I have attended online at the [Open Metropolia 
     - Python Quick Recap
     - Python Arrays, Tables, Vectors, Matrices
     - AI: Short Description
-    - AI: Regression 1
-    - AI: Regression 2
-    - AI: Classification 1
-    - AI: Classification 2
-    - AI: Miscellanea
+    - AI: Regression 1 (linear regression, polynomial regression)
+    - AI: Regression 2 (multiple linear regression, ridge regression, lasso regression)
+    - AI: Classification 1 (logistic regression, KNN)
+    - AI: Classification 2 (SVM, Decision trees, text data)
+    - AI: Miscellanea (k-means clustering, Deep learning with tensorflow)
 
